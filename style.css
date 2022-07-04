@@ -1,0 +1,121 @@
+
+.Sign-In-Up-header {
+    text-shadow: 2px 2px rgb(255, 181, 22);
+    font-size: 40px;
+    font-family: serif;
+    display: block;
+    text-transform: uppercase;
+    text-align: center;
+    font-style: italic;
+    padding: 10px;
+    margin: 10px auto;
+    font-weight: 200;
+  }
+  
+  .login-header{
+    text-shadow: 2px 2px rgb(129, 212, 245);
+    font-size: 35px;
+    font-family: serif;
+    text-transform: uppercase;
+    font-style: italic;
+    font-weight: 200;
+    padding-top: 30px;
+    color: #fff;
+  
+  }
+  
+  input[type=text] {
+  background-color: #ffff;
+  border: none;
+  border-bottom: 2px solid #e9b830;
+  font-style: italic;
+  text-align: center;
+  }
+  
+  
+  /***This is the code for login-registration form*/
+  
+  .card{
+    width: 800px;
+    background-color: #e9b830;
+  }
+  
+  .nav-item{
+    width: 50%;
+    text-align: center;
+    text-transform: uppercase;
+  }
+  
+  .card .nav-tabs > li > a {
+    padding: 10px;
+    color: black;
+    font-size: 18px;
+    font-family: serif;
+    font-style: italic;
+    font-weight: bold;
+  }
+  
+  .card .nav-tabs > li > a:hover {
+    background-color: rgb(250, 147, 110);
+  }
+  
+  
+  .data-form
+  {
+    background-image: url("/assets/images/login-background/pexels-james-wheeler-1486974.jpg");
+    background-repeat: no-repeat;
+  }
+  
+  #Login{
+    padding-top: 30px;
+  }
+  .input-data{
+    padding-left: 20px ;
+    font-style: italic;
+    padding-right: 20px;
+    font-size: 20px;
+    color: #fff;
+    font-weight: bold;
+  
+  }
+  
+  .btn-data{
+    padding-left: 20px ;
+  }
+  
+  .btn-data .forgot{
+    color: #fff;
+  }
+  
+  .button-check{
+    padding-left: 55px ;
+  }
+  
+  
+  /**button for submit an registration */
+  .btn-shape{
+    border-radius: 25px;
+    -moz-border-radius: 25px;
+    -webkit-border-radius: 25px;
+    width: 180px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    -webkit-box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    border: none;
+    cursor: pointer;
+    font-family: 'Nunito', sans-serif;
+    color: #fff;
+    font-weight: 700;
+    font-size: 16px;
+    width: 200px;
+  }
+  
+  .btn-shape:hover {
+    background-color: rgb(250, 147, 110);
+  }
+  
+  .form-check-label{
+    color: #fff;
+  }
+  
+  
